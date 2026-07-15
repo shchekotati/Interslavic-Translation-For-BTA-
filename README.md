@@ -1,5 +1,7 @@
 # 🌍 Interslavic Translation For BTA!
 
+[🌐 English](README.md) | [🌐 Medžuslovjansky](PROČITAJMENE.md) | [🌐 Меджусловјанскы](ПРОЧИТАЈМЕНЕ.md)
+
 Welcome to the repository for the **BTA!** (Better Than Adventure!) Interslavic translation. This project aims to bring the entire mod experience to speakers and learners of the Interslavic language (*Medžuslovjansky* / *Меджусловјанскы*).
 
 ---
