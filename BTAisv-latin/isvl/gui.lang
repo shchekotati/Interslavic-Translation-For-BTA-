@@ -163,7 +163,7 @@ gui.main_menu.button.options=Opcije...
 gui.main_menu.button.quit_game=Vyjdti iz igry
 gui.main_menu.button.discord=Discord
 gui.main_menu.button.website=Veb-sаjt
-gui.main_menu.button.youtube=Youtube
+gui.main_menu.button.youtube=YouTube
 gui.main_menu.button.credits=Аvtory
 
 gui.out_of_memory.label.title=Nedostаtočno pаmeti!
