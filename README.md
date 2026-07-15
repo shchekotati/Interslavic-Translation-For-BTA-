@@ -1,0 +1,33 @@
+# 🌍 Interslavic Translation For BTA!
+
+Welcome to the repository for the **BTA!** (Better Than Adventure!) Interslavic translation. This project aims to bring the entire mod experience to speakers and learners of the Interslavic language (*Medžuslovjansky* / *Меджусловјанскы*).
+
+---
+
+## 🗺️ Supported Scripts
+
+To ensure maximum accessibility across the Slavic community, this localization supports both official writing systems:
+* **Latin Alphabet (Medžuslovjansky)**
+* **Cyrillic Alphabet (Меджусловјанскы)** 
+
+---
+
+## ⚙️ Installation Guide
+
+### For Players
+1. **Download:** Go to the [Releases](../../releases) tab and download the latest `BTAisv-script-btaversion-version.zip` file.
+2. **Placement:** Open your root BTA! directory, locate the `languages` folder, and drop the `BTAisv-script-btaversion-version.zip` directly inside it. **Do not extract the archive.**
+3. **Activation:** Launch the game, navigate to **Options > Language Settings**, and select **Medžuslovjansky / Меджусловјанскы**.
+
+---
+
+## 👥 How to Contribute
+
+We highly appreciate community contributions to polish the vocabulary and grammar! 
+
+* **Report Typos:** If you spot an incorrect translation, please open an [Issue](../../issues).
+* **Suggest Improvements:** For better terminology matches, start a discussion in the Issues section.
+* **Submit Fixes:** Fork the repository, apply your changes to the `.lang`/`.json` files, and submit a [Pull Request](../../pulls).
+
+*Note: Please ensure all text files are saved using **UTF-8** encoding to preserve special characters.*
+
