@@ -49,3 +49,5 @@ Cyrillic
 
 ## 📝 Other Good Projects
 RealFantomPlay - [Interslavic Cyrillic Transliteration for Minecraft](https://github.com/realfantomplay/interslavic-minecraft-cyrillic)
+
+shchekotati - [Interslavic Translation For Minecraft Beta 1.7.3](https://github.com/shchekotati/Interslavic-Translation-For-Minecraft-Beta-1.7.3)
