@@ -39,11 +39,11 @@ We highly appreciate community contributions to polish the vocabulary and gramma
 
 Latin Script
 
-<img width="854" height="480" alt="2026-07-15_04 02 50" src="https://github.com/user-attachments/assets/2f2b8bd1-e418-4858-b1e7-99c4eb01feae" />
+<img width="854" height="480" alt="2026-07-21_14 41 10" src="https://github.com/user-attachments/assets/acf3fd84-e940-4102-a438-bb5c8bfe0194" />
 
 Cyrillic
 
-<img width="854" height="480" alt="2026-07-15_02 56 56" src="https://github.com/user-attachments/assets/61143aef-4a0c-485a-83da-04759c9e74a7" />
+<img width="854" height="480" alt="2026-07-21_14 41 06" src="https://github.com/user-attachments/assets/7ce1f2df-1da1-46cf-bddf-0c26f5d501ac" />
 
 ---
 
