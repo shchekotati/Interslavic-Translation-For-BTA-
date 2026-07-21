@@ -1,0 +1,64 @@
+messages.player_joined=%s је подкључил се к игрє.
+messages.player_left=%s је одкључил се од игры.
+messages.player_kicked=%s је одкључил се од игры.
+
+messages.illegal_characters=[СЕРВЕР] Недопустиме симболы в сообченју чата.
+
+messages.sleep.succeed=%s је легл спати. Пријатных снов!
+messages.sleep.enter_bed=%s је легл в лежишче.
+messages.sleep.exit_bed=%s је встал с лежишча.
+messages.sleep.more_required=Трєба јешче селико играчев в лежишчу, да бы почети новы дењ: %s.
+messages.sleep.more_required.singular=Трєба јешче %s играч в лежишчу, да бы почети новы дењ.
+
+messages.bed.occupied=То лежишче је зајето.
+messages.bed.noSleep=Вы можете спати толико ночеју чи в час бурје.
+messages.bed.setSpawn=Пункт возродженја је установјены.
+messages.bed.notValid=Ваше домашње лежишче одсутствује чи је заблокована.
+messages.bed.noAllowSleeping=Сон је одкључены.
+messages.bed.unsafeToSleep=Тут небезопасно спати.
+
+messages.wand.wrongmode=Вам трєба быти в режиму Творчества, да бы изкористати тој прєдмет!
+
+messages.flag.full=У вас прємного много хоругв на тој мапє!
+messages.flag.overwrite=Неможливо прєзаписати сучи орнамент.
+messages.flag.copied=Орнамент хоругвы је скопированы.
+
+messages.death.mob.generic=%s је погынул.
+messages.death.mob.lava=%s је поплавал в лавє.
+messages.death.mob.acid=%s је изкупал се в кыслинє.
+messages.death.mob.spikes=%s је наскочил на трны.
+messages.death.mob.fall=%s је сломил ногы.
+messages.death.mob.drowned=%s је задохнул се.
+messages.death.mob.fire=%s је был изпепељены.
+messages.death.mob.killed_by=%s је был убиты створом по имени %s.
+
+messages.death.player.generic=%s је погынул загадочноју смртју.
+messages.death.player.lava=%s је утонул в подливкє.
+messages.death.player.acid=%s је вече не тврдо тєло.
+messages.death.player.spikes=%s је изловил се на лест.
+messages.death.player.fall=%s је забыл завезати шнуры.
+messages.death.player.drowned=%s крми рыб.
+messages.death.player.fire=%s је прожарил се до коркы.
+messages.death.player.tnt=%s је избухнул благодаре играчу Popbob.
+messages.death.player.lightning=%s је был заземјены.
+messages.death.player.herobrine=%s је погынул од Herobrine.
+messages.death.player.killed_by=%s је добыл нож в хребет од %s.
+messages.death.player.killed_by.zombie=%s је стал зомби.
+messages.death.player.killed_by.zombie_pig=%s је узнал силу стадного инстинкта.
+messages.death.player.killed_by.creeper=%s не је примєтил крипера.
+messages.death.player.killed_by.skeleton=%s је пал жртвоју аимбота.
+messages.death.player.killed_by.spider=%s је засєдєл се в павучинє.
+messages.death.player.killed_by.ghast=%s не је смогл одбити поданје.
+messages.death.player.killed_by.slime=%s је был затисканы слимаком.
+messages.death.player.killed_by.wolf=%s је получил по заслугам.
+messages.death.player.killed_by.giant=%s је был убиты... стојите, кым?!
+messages.death.player.killed_by.pig=%s је *силно* лоши в Minecraft.
+messages.death.player.killed_by.arrow=%s је нынє подобны на подушку дља иглиц.
+messages.death.player.killed_by.arrow_player=%s је добыл 360 ноускоп од %s.
+messages.death.player.killed_by.arrow_suicide=%s је проиграл в русској рулеткє.
+messages.death.player.killed_by.arrow_golden=%s је нынє как швејцарскы сыр.
+messages.death.player.killed_by.arrow_golden_player=%s је был наполњены златом од %s.
+messages.death.player.killed_by.arrow_golden_suicide=%s је словил злату маслину.
+messages.death.player.killed_by.cannonball=%s је избухнул на оддаљенју.
+messages.death.player.killed_by.cannonball_player=%s је был разшчепјены на атомы играчем %s.
+messages.death.player.killed_by.cannonball_suicide=%s је прємного высоко скочил.

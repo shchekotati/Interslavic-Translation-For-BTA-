@@ -1,0 +1,12 @@
+world_settings.values.on=ВКЉ
+world_settings.values.off=ИЗКЉ
+
+world_settings.world_height.bottom.name=Долна граница свєта
+world_settings.world_height.ocean.name=Высота океана
+world_settings.world_height.top.name=Врхна граница свєта
+world_settings.single_season.enabled.name=Једин сезон
+world_settings.single_season.value.name=
+world_settings.starting_biome.enabled.name=Почетковы биом
+world_settings.starting_biome.value.name=
+world_settings.single_biome.enabled.name=Једин биом
+world_settings.single_biome.value.name=
