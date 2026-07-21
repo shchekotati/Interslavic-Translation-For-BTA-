@@ -418,8 +418,8 @@ key.hudEditorExit=Изојдти из редактора HUD
 key.hudEditorReset=Прєзапустити HUD на прєдуставјенје
 key.hudEditorNudgeUp=Измєстити избраны компонент вврх
 key.hudEditorNudgeDown=Измєстити избраны компонент на дол
-key.hudEditorNudgeЛєво=Измєстити избраны компонент влєво
-key.hudEditorNudgeПраво=Измєстити избраны компонент вправо
+key.hudEditorNudgeLeft=Измєстити избраны компонент влєво
+key.hudEditorNudgeRight=Измєстити избраны компонент вправо
 key.hudEditorNudgeFast=Ускорјено измєшченје избраного компонента
 key.hudEditorOnboarding=Показати екран обученја с редактором HUD
 
